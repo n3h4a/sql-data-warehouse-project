@@ -111,14 +111,8 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+---
 
-## 👩‍💻 About Me
-
-Hi! I'm Neha, a B.Tech Information Technology student passionate about Data Analytics, SQL, and Data Engineering.
-
-I'm building real-world projects to strengthen my skills in SQL, ETL, Data Warehousing, and Business Intelligence while preparing for internships and software engineering roles.
-
-Connect with me on LinkedIn and GitHub!
 
 ## 👩‍💻 About Me
 
