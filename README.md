@@ -114,9 +114,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Neha Karamchandani**, a B.Tech Information Technology student passionate about **Data Analytics, SQL, and Data Engineering**.
+Hi! I'm Neha, an IT undergraduate passionate about solving problems with data. This repository contains my SQL Server project, documenting the complete development process from database design to implementation.
 
-I'm building real-world projects to strengthen my skills in **SQL, ETL, Data Warehousing, and Business Intelligence** while preparing for software engineering and data analytics internships.
+---
 
 ### 🌐 Connect with Me
 
