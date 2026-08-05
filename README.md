@@ -4,6 +4,9 @@ Welcome to my SQL Data Warehouse Project!
 
 This project demonstrates the complete process of building a modern data warehouse using SQL Server. It includes data ingestion, ETL pipelines, data modeling, and analytical reporting following the Medallion Architecture (Bronze, Silver, Gold).
 
+It also contains a comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more. This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
+
+
 The project is part of my data engineering portfolio and showcases practical SQL development skills.
 
 ---
