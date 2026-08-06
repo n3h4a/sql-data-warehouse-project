@@ -1,4 +1,4 @@
-# SQL Data Warehouse and Analytics Project
+# SQL Data Warehouse, Analytics and EDA Project
 
 Welcome to my SQL Data Warehouse Project!
 
